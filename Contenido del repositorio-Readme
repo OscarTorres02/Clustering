@@ -1,0 +1,12 @@
+Contenido del repositorio y cómo ejecutar los scripts.
+
+Instalación de Dependencias:
+Asegúrate de tener instaladas las bibliotecas necesarias: pandas, matplotlib, y scikit-learn.
+
+Ejecución del Script:
+El script carga un archivo CSV (force2020_data_unsupervised_learning.csv) en un DataFrame,
+realiza limpieza de datos eliminando valores faltantes y normaliza columnas seleccionadas para el análisis.
+Utiliza el método del codo para identificar el número óptimo de clusters y realiza agrupación en clusters con K-means.
+Además, genera gráficos para visualizar los clusters y comparar diferentes configuraciones.
+Para ejecutar el script, simplemente se ejecuta en un entorno compatible con Python (como Jupyter Notebook o una terminal)
+y debemos asegurarnos de que el archivo CSV esté en la ubicación especificada en el código
