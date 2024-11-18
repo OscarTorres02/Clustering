@@ -1,7 +1,7 @@
 Contenido del repositorio y cómo ejecutar los scripts.
 
 Instalación de Dependencias:
-Asegúrate de tener instaladas las bibliotecas necesarias: pandas, matplotlib, y scikit-learn.
+Debemos asegurarnos de tener instaladas las bibliotecas necesarias: pandas, matplotlib, y scikit-learn.
 
 Ejecución del Script:
 El script carga un archivo CSV (force2020_data_unsupervised_learning.csv) en un DataFrame,
